@@ -19,8 +19,7 @@ Install the required dependencies:
 npm install
 
 Run the app on Android or iOS emulator:
-For Android:
-npm run android
 
-For iOS:
-npm run ios
+For Android: # npm run android
+
+For iOS: # npm run ios
