@@ -1,6 +1,5 @@
 # Food Delivery UI with sanity.io
 
-![Uploading Simulator Screen Shot - iPhone 14 - 2023-08-17 at 09.38.10.png…]()
 
 This is a sample React Native food delivery app that demonstrates how to integrate with Sanity.io, a powerful and flexible content platform. The app allows users to browse restaurants, view menus, and place food orders. It showcases the integration of Sanity.io as a content management system (CMS) to manage restaurant data and menu items.
 
