@@ -10,7 +10,9 @@ Responsive and intuitive user interface
 
 # Installation
 Clone this repository to your local machine:
+
 git clone https://github.com/yourusername/react-native-food-delivery.git
+
 cd react-native-food-delivery
 
 Install the required dependencies:
